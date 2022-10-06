@@ -12,3 +12,7 @@ ESTACIONES
 2 primavera
 3 otoño 
 4 invierno
+
+colores
+rojo 
+verde
