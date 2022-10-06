@@ -6,3 +6,9 @@ martes
 miercoles
 jueves
 virnes
+
+estaciones
+verano 
+primavera
+otoño 
+invierno
