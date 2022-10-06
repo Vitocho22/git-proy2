@@ -10,3 +10,5 @@ virnes
 estaciones
 verano 
 primavera
+otoño 
+invierno
